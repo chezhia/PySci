@@ -1,0 +1,76 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1455161359740
+closed,editor,org.python.pydev,4.4.0.201510052309,"org.python.pydev.editor.PythonEditor",1455161359772
+activated,view,org.python.pydev,4.4.0.201510052309,"org.python.pydev.navigator.view",1455161362196
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455161374199
+error,log,,,"Info: Rebuilding internal caches: S:\\Workspace\\Python Projects\\.metadata\\.plugins\\org.eclipse.core.resources\\.projects\\Twitteranalytics\\com.python.pydev.analysis\\AdditionalProjectInterpreterInfo.pydevinfo (Expected error to be provided and got no error!)",1455161396529
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455161396671
+started,bundle,org.eclipse.compare,3.5.202.R37x_v20111109-0800,"org.eclipse.compare",1455161400064
+started,bundle,org.python.pydev.customizations,4.4.0.201510052309,"org.python.pydev.customizations",1455161400313
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455161436495
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455161439156
+no handler,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.cut",1455161452463
+started,bundle,org.eclipse.cdt.debug.core,7.1.0.201202111925,"org.eclipse.cdt.debug.core",1455161457522
+started,bundle,org.eclipse.cdt.debug.ui,7.1.2.201202111925,"org.eclipse.cdt.debug.ui",1455161457582
+started,bundle,org.eclipse.ltk.ui.refactoring,3.6.0.v20110928-1453,"org.eclipse.ltk.ui.refactoring",1455161459250
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455161459405
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455161461801
+executed,command,org.eclipse.ltk.ui.refactoring,3.6.0.v20110928-1453,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1455161461812
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455161470513
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455161475225
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455161593528
+opened,editor,org.python.pydev,4.4.0.201510052309,"org.python.pydev.editor.PythonEditor",1455161599329
+activated,editor,org.python.pydev,4.4.0.201510052309,"org.python.pydev.editor.PythonEditor",1455161599338
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455161599364
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455161602388
+error,log,,,"S:\\Workspace\\Python Projects\\.metadata\\.plugins\\com.python.pydev.analysis\\python_v1_31jwdl8kud0i9hncyr2ugk2nn\\python.pydevsysteminfo (The system cannot find the path specified)",1455167396366
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455167807116
+activated,view,org.python.pydev,4.4.0.201510052309,"org.python.pydev.navigator.view",1455167809236
+activated,editor,org.python.pydev,4.4.0.201510052309,"org.python.pydev.editor.PythonEditor",1455167838296
+activated,view,org.python.pydev,4.4.0.201510052309,"org.python.pydev.navigator.view",1455167839713
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455167849345
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455167864796
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.import",1455167864807
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.import",1455167864807
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455167892367
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455167900769
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455167913107
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455168019285
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455168027387
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455168027482
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455168027973
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455168077928
+activated,editor,org.python.pydev,4.4.0.201510052309,"org.python.pydev.editor.PythonEditor",1455168077956
+activated,view,org.python.pydev,4.4.0.201510052309,"org.python.pydev.navigator.view",1455168079933
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.refresh",1455168082627
+error,log,,,"S:\\Workspace\\Python Projects\\.metadata\\.plugins\\org.eclipse.core.resources\\.projects\\Twitteranalytics\\org.python.pydev\\1.v1_astdelta (The system cannot find the path specified)",1455168082787
+error,log,,,"S:\\Workspace\\Python Projects\\.metadata\\.plugins\\org.eclipse.core.resources\\.projects\\Twitteranalytics\\com.python.pydev.analysis\\1.v1_projectinfodelta (The system cannot find the path specified)",1455168082791
+error,log,,,"S:\\Workspace\\Python Projects\\.metadata\\.plugins\\org.eclipse.core.resources\\.projects\\Twitteranalytics\\com.python.pydev.analysis\\2.v1_projectinfodelta (The system cannot find the path specified)",1455168082796
+error,log,,,"S:\\Workspace\\Python Projects\\.metadata\\.plugins\\org.eclipse.core.resources\\.projects\\Twitteranalytics\\org.python.pydev\\2.v1_astdelta (The system cannot find the path specified)",1455168082803
+error,log,,,"S:\\Workspace\\Python Projects\\.metadata\\.plugins\\org.eclipse.core.resources\\.projects\\Twitteranalytics\\com.python.pydev.analysis\\3.v1_projectinfodelta (The system cannot find the path specified)",1455168082808
+error,log,,,"S:\\Workspace\\Python Projects\\.metadata\\.plugins\\org.eclipse.core.resources\\.projects\\Twitteranalytics\\com.python.pydev.analysis\\4.v1_projectinfodelta (The system cannot find the path specified)",1455168082812
+error,log,,,"S:\\Workspace\\Python Projects\\.metadata\\.plugins\\org.eclipse.core.resources\\.projects\\Twitteranalytics\\org.python.pydev\\3.v1_astdelta (The system cannot find the path specified)",1455168082818
+error,log,,,"S:\\Workspace\\Python Projects\\.metadata\\.plugins\\org.eclipse.core.resources\\.projects\\Twitteranalytics\\com.python.pydev.analysis\\5.v1_projectinfodelta (The system cannot find the path specified)",1455168082822
+error,log,,,"S:\\Workspace\\Python Projects\\.metadata\\.plugins\\org.eclipse.core.resources\\.projects\\Twitteranalytics\\com.python.pydev.analysis\\6.v1_projectinfodelta (The system cannot find the path specified)",1455168082828
+activated,editor,org.python.pydev,4.4.0.201510052309,"org.python.pydev.editor.PythonEditor",1455168083667
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455168088844
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455168090757
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455168092020
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455168247725
+activated,view,org.python.pydev,4.4.0.201510052309,"org.python.pydev.navigator.view",1455168262525
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455168268463
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455168281369
+executed,command,org.eclipse.team.ui,3.6.101.R37x_v20111109-0800,"org.eclipse.team.ui.applyPatch",1455168281382
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455168292404
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455168318777
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455168320624
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455168323763
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455168324341
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1455168360830
+error,log,,,"S:\\Workspace\\Python Projects\\.metadata\\.plugins\\org.eclipse.core.resources\\.projects\\Twitteranalytics\\org.python.pydev\\4.v1_astdelta (The system cannot find the path specified)",1455168360915
+error,log,,,"S:\\Workspace\\Python Projects\\.metadata\\.plugins\\org.eclipse.core.resources\\.projects\\Twitteranalytics\\com.python.pydev.analysis\\7.v1_projectinfodelta (The system cannot find the path specified)",1455168360920
+error,log,,,"S:\\Workspace\\Python Projects\\.metadata\\.plugins\\org.eclipse.core.resources\\.projects\\Twitteranalytics\\com.python.pydev.analysis\\8.v1_projectinfodelta (The system cannot find the path specified)",1455168360928
+error,log,,,"S:\\Workspace\\Python Projects\\.metadata\\.plugins\\org.eclipse.core.resources\\.projects\\Twitteranalytics\\org.python.pydev\\5.v1_astdelta (The system cannot find the path specified)",1455168360935
+error,log,,,"S:\\Workspace\\Python Projects\\.metadata\\.plugins\\org.eclipse.core.resources\\.projects\\Twitteranalytics\\com.python.pydev.analysis\\9.v1_projectinfodelta (The system cannot find the path specified)",1455168360939
+error,log,,,"S:\\Workspace\\Python Projects\\.metadata\\.plugins\\org.eclipse.core.resources\\.projects\\Twitteranalytics\\com.python.pydev.analysis\\10.v1_projectinfodelta (The system cannot find the path specified)",1455168360946
+error,log,,,"S:\\Workspace\\Python Projects\\.metadata\\.plugins\\org.eclipse.core.resources\\.projects\\Twitteranalytics\\org.python.pydev\\6.v1_astdelta (The system cannot find the path specified)",1455168360955
